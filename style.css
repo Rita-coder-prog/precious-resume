@@ -1,0 +1,90 @@
+*{text-align: center;
+    padding: 10px;
+    margin:10px;
+    box-sizing: border-box;
+    background-color: darkcyan;
+    
+}
+
+header{
+    text-align: center;
+    color: orangered;
+    font-size: xx-large;
+}
+img{
+    height: 200px;
+    width: 200px;
+    float: left;
+    }
+    .details{
+        text-align: left;
+    }
+h1{color: orangered;
+    text-align: center;
+    font-size: xx-large;
+}
+h2{
+    color: orangered;
+     font-size: xx-large;
+     text-align: center;
+}
+h3{
+    text-align: center;
+    color: orangered;
+}
+label{
+    color: white;
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.watsapp{
+    height: 80px;
+    width: 80px;
+    text-align: center;
+    float: initial;
+}
+.facebook{
+    height: 80px;
+    width: 80px;
+    text-align: center;
+    float: initial;
+}
+.ig{
+    height: 80px;
+    width: 80px;
+    text-align: center;
+    float: initial;
+}
+.twitter{
+    height: 80px;
+    width: 80px;
+    text-align: center;
+    float: initial;
+}
+
+footer{
+    text-align: center;
+     font-size: medium;
+     color: powderblue;
+     font-family: Arial, Helvetica, sans-serif; 
+    }
+    .logos{
+        text-align: center;
+    }
+    
+    .details{
+        color: white;
+        font-size: large;
+    }
+    p{
+        color: white;
+        font-size: large;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+
+    
+        
+    
+    
+
+    
